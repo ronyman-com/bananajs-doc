@@ -64,7 +64,15 @@ HMR: A mechanism to update modules in the browser without a full reload.
 `yarn build`
 
 ## Create Project or App from CLI.
-![alt text](/assets/images/cli_print.png)
+
+<figure style="margin: 1em 0; text-align: center;">
+  <img src="/assets/images/cli_print.png"
+       alt="Screenshot showing BananaJS project creation interface"
+       style="max-width: 100%; height: auto; border-radius: 8px;">
+  <figcaption style="margin-top: 0.5em; font-size: 0.9em; color: #666;">
+    Figure 3: BananaJS development dashboard.
+  </figcaption>
+</figure>
 
 
 ### banana-docs
