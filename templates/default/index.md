@@ -9,10 +9,25 @@
 
 **Official Repository:** [ronyman-com/BananaJS](https://github.com/ronyman-com/@ronyman/bananajs)
 
-![alt text](/assets/images/banana_dev_index.png)
 
-## Create Project or App from browser.
-![alt text](/assets/images/banana_dev_dash.png)
+<figure style="margin: 1em 0; text-align: center;">
+  <img src="/assets/images/banana_dev_index.png"
+       alt="Screenshot showing BananaJS project creation interface"
+       style="max-width: 100%; height: auto; border-radius: 8px;">
+  <figcaption style="margin-top: 0.5em; font-size: 0.9em; color: #666;">
+    Figure 1: BananaJS development index.
+  </figcaption>
+</figure>
+
+
+<figure style="margin: 1em 0; text-align: center;">
+  <img src="/assets/images/banana_dev_dash.png"
+       alt="Screenshot showing BananaJS project creation interface"
+       style="max-width: 100%; height: auto; border-radius: 8px;">
+  <figcaption style="margin-top: 0.5em; font-size: 0.9em; color: #666;">
+    Figure 2: BananaJS development dashboard.
+  </figcaption>
+</figure>
 
 ## biuld on node 18.18.2
 
