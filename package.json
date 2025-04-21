@@ -1,0 +1,31 @@
+{
+  "name": "bananajs-doc",
+  "version": "1.0.0",
+  "description": "BananaJS Documentation",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "build": "readme build templates",
+    "start": "readme start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronyman-com/bananaJS.git"
+  },
+  "keywords": [
+    "bananajs",
+    "ronyman",
+    "bananajs-doc"
+  ],
+  "author": "Rony MAN",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ronyman-com/bananaJS/issues"
+  },
+  "homepage": "https://github.com/ronyman-com/bananaJS#readme",
+  "dependencies": {
+    "npm-seo-optimizer": "^1.0.0",
+    "readme-framework": "^1.2.3",
+    "serve": "^14.2.4"
+  }
+}

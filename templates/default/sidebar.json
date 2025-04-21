@@ -1,0 +1,60 @@
+{
+  "menu": [
+    {
+      "title": "Index",
+      "path": "index"
+    },
+    {
+      "title": "Install",
+      "path": "installation"
+    },
+    {
+      "title": "Getting Started",
+      "path": "getting-started"
+    },
+    {
+      "title": "Workspace.",
+      "path": "workspace"
+    },
+    {
+      "title": "Build Tools.",
+      "path": "build-tool"
+    },
+    {
+      "title": "Debug & Error Assistant.",
+      "path": "debug"
+    },
+    {
+      "title": "CLI",
+      "path": "cli"
+    },
+    {
+      "title": "Web Socket",
+      "path": "ws"
+    },
+    {
+      "title": "Create First App",
+      "path": "first-app"
+    },
+    {
+      "title": "API Reference.",
+      "path": "api"
+    },
+    {
+      "title": "Examples",
+      "path": "examples"
+    },
+    {
+      "title": "Install From NPM",
+      "path": "npm"
+    },
+    {
+      "title": "Hot Module Replacement",
+      "path": "hrm"
+    },
+    {
+      "title": "Change LOG",
+      "path": "changelog"
+    }
+  ]
+}
