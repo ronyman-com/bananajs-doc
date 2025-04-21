@@ -9,10 +9,10 @@
 
 **Official Repository:** [ronyman-com/BananaJS](https://github.com/ronyman-com/@ronyman/bananajs)
 
-![alt text](/assets/images/banana_dev_index.png)
+![alt text](/templates/default/assets/images/banana_dev_index.png)
 
 ## Create Project or App from browser.
-![alt text](/assets/images/banana_dev_dash.png)
+![alt text](/templates/default/assets/images/banana_dev_dash.png)
 
 ## biuld on node 18.18.2
 
