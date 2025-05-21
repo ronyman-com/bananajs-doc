@@ -79,7 +79,7 @@ banana create-folder src/components          # Creates a folder and necessary pa
 banana create-upload -d ./public/uploads     # Opens a file dialog to upload files to specified destination
 ```
 
-
+## Configuration
 Configuration via banana.config.js for custom templates and presets
 
 For more information about any command, use:
