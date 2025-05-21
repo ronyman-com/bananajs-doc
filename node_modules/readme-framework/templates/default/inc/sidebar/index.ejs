@@ -1,0 +1,38 @@
+<%- include ('sidebar.ejs') %>
+
+<script>
+  // Initialize sidebar interactivity
+  document.addEventListener('DOMContentLoaded', () => {
+    // Toggle submenus when clicking on items with children
+    document.querySelectorAll('.sidebar-item.has-children > .sidebar-link, .sidebar-subitem.has-children > .sidebar-sublink').forEach(link => {
+      link.addEventListener('click', function(e) {
+        // Don't navigate if clicking on caret or the link itself
+        if (e.target.classList.contains('sidebar-caret') || e.currentTarget === this) {
+          e.preventDefault();
+          const parentItem = this.closest('li');
+          const wasExpanded = this.getAttribute('aria-expanded') === 'true';
+          
+          // Toggle expanded state
+          this.setAttribute('aria-expanded', !wasExpanded);
+          parentItem.classList.toggle('expanded');
+        }
+      });
+    });
+
+    // Automatically expand active items
+    document.querySelectorAll('.sidebar-link.active, .sidebar-sublink.active').forEach(activeLink => {
+      let parentMenu = activeLink.closest('.sidebar-submenu');
+      while (parentMenu) {
+        const parentItem = parentMenu.closest('li');
+        const parentLink = parentItem.querySelector('> .sidebar-link, > .sidebar-sublink');
+        
+        parentItem.classList.add('expanded');
+        if (parentLink) {
+          parentLink.setAttribute('aria-expanded', 'true');
+        }
+        
+        parentMenu = parentMenu.closest('.sidebar-submenu');
+      }
+    });
+  });
+</script>

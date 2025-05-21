@@ -492,22 +492,12 @@
  <aside class="mobile-sidebar" id="mobile-sidebar">
   <nav>
     <ul>
-      <% sidebar.menu.forEach(item => { %>
-        <% if (item.children) { %>
-          <li class="folder">
-            <details>
-              <summary><%= item.title %></summary>
-              <ul>
-                <% item.children.forEach(child => { %>
-                  <li><a href="/<%= child.path %>.html"><%= child.title %></a></li>
-                <% }) %>
-              </ul>
-            </details>
-          </li>
-        <% } else { %>
-          <li><a href="/<%= item.path %>.html"><%= item.title %></a></li>
-        <% } %>
-      <% }) %>
+      <!-- Sidebar -->
+       <%- include('./inc/sidebar/sidebar.ejs', { 
+    sidebarData: locals.sidebarData, // No fallback needed since we always provide it
+    currentPath: locals.currentPath || '/' 
+  }) %>
+  
     </ul>
   </nav>
 </aside>
@@ -517,22 +507,10 @@
   <div class="sidebar-resizer" id="sidebar-resizer"></div>
   <nav>
     <ul>
-      <% sidebar.menu.forEach(item => { %>
-        <% if (item.children) { %>
-          <li class="folder">
-            <details>
-              <summary><%= item.title %></summary>
-              <ul>
-                <% item.children.forEach(child => { %>
-                  <li><a href="/<%= child.path %>.html"><%= child.title %></a></li>
-                <% }) %>
-              </ul>
-            </details>
-          </li>
-        <% } else { %>
-          <li><a href="/<%= item.path %>.html"><%= item.title %></a></li>
-        <% } %>
-      <% }) %>
+       <%- include('./inc/sidebar/sidebar.ejs', { 
+    sidebarData: locals.sidebarData, // No fallback needed since we always provide it
+    currentPath: locals.currentPath || '/' 
+  }) %>
     </ul>
   </nav>
 </aside>

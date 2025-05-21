@@ -6,7 +6,8 @@
   "scripts": {
     "test": "test",
     "build": "readme build templates",
-    "start": "readme start"
+    "start": "readme start",
+    "gen-menu": "node ./plugins/readme-urls/plugins/readme-urls/menu.js"
   },
   "repository": {
     "type": "git",
@@ -25,7 +26,8 @@
   "homepage": "https://github.com/ronyman-com/bananaJS#readme",
   "dependencies": {
     "npm-seo-optimizer": "^1.0.0",
-    "readme-framework": "^1.2.3",
+    "readme-framework": "^1.3.7",
+    "readme-urls": "^1.1.0",
     "serve": "^14.2.4"
   }
 }
