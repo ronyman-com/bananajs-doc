@@ -29,7 +29,7 @@
   </figcaption>
 </figure>
 
-## biuld on node 18.18.2
+## build on node 18.18.2
 
 ### Banana.js Overview
 Banana.js is a modern frontend framework designed for fast development and optimized builds. It leverages native ES modules for development and provides a plugin-based architecture for extensibility. Key features include:
