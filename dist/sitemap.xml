@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+    <url>
+      <loc>http://localhost/api.html</loc>
+      <lastmod>2025-05-21T03:04:50.223Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost/awes-banana.html</loc>
+      <lastmod>2025-05-21T03:04:50.401Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost/browser.html</loc>
+      <lastmod>2025-05-21T03:04:50.509Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost/build-tool.html</loc>
+      <lastmod>2025-05-21T03:04:50.606Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost/changelog.html</loc>
+      <lastmod>2025-05-21T03:04:50.780Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost/cli.html</loc>
+      <lastmod>2025-05-21T03:04:51.131Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost/configuration.html</loc>
+      <lastmod>2025-05-21T03:04:51.226Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost/debug.html</loc>
+      <lastmod>2025-05-21T03:04:51.306Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost/first-app.html</loc>
+      <lastmod>2025-05-21T03:04:51.401Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost/getting-started.html</loc>
+      <lastmod>2025-05-21T03:04:51.470Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost/hrm.html</loc>
+      <lastmod>2025-05-21T03:04:51.538Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost/index.html</loc>
+      <lastmod>2025-05-21T03:04:51.622Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost/installation.html</loc>
+      <lastmod>2025-05-21T03:04:51.699Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost/npm.html</loc>
+      <lastmod>2025-05-21T03:04:51.772Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost/workspace.html</loc>
+      <lastmod>2025-05-21T03:04:51.846Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost/ws.html</loc>
+      <lastmod>2025-05-21T03:04:51.900Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+</urlset>

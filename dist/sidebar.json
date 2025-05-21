@@ -1,0 +1,91 @@
+{
+  "title": "My Documentation",
+  "items": [
+    {
+      "text": "Api",
+      "link": "/api",
+      "icon": "file"
+    },
+    {
+      "text": "Awes Banana",
+      "link": "/awes-banana",
+      "icon": "file"
+    },
+    {
+      "text": "Browser",
+      "link": "/browser",
+      "icon": "file"
+    },
+    {
+      "text": "Build Tool",
+      "link": "/build-tool",
+      "icon": "file"
+    },
+    {
+      "text": "Changelog",
+      "link": "/changelog",
+      "icon": "file"
+    },
+    {
+      "text": "Cli",
+      "link": "/cli",
+      "icon": "file"
+    },
+    {
+      "text": "Configuration",
+      "link": "/configuration",
+      "icon": "file"
+    },
+    {
+      "text": "Debug",
+      "link": "/debug",
+      "icon": "file"
+    },
+    {
+      "text": "First App",
+      "link": "/first-app",
+      "icon": "file"
+    },
+    {
+      "text": "Getting Started",
+      "link": "/getting-started",
+      "icon": "file"
+    },
+    {
+      "text": "Home",
+      "link": "/",
+      "icon": "home"
+    },
+    {
+      "text": "Hrm",
+      "link": "/hrm",
+      "icon": "file"
+    },
+    {
+      "text": "Index",
+      "link": "/index",
+      "icon": "file"
+    },
+    {
+      "text": "Installation",
+      "link": "/installation",
+      "icon": "file"
+    },
+    {
+      "text": "Npm",
+      "link": "/npm",
+      "icon": "file"
+    },
+    {
+      "text": "Workspace",
+      "link": "/workspace",
+      "icon": "file"
+    },
+    {
+      "text": "Ws",
+      "link": "/ws",
+      "icon": "file"
+    }
+  ],
+  "generatedAt": "2025-05-21T02:18:27.027Z"
+}
