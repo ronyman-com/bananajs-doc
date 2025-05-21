@@ -3,112 +3,112 @@
   
     <url>
       <loc>http://localhost/api.html</loc>
-      <lastmod>2025-05-21T02:25:45.650Z</lastmod>
+      <lastmod>2025-05-21T02:39:35.599Z</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
       <loc>http://localhost/awes-banana.html</loc>
-      <lastmod>2025-05-21T02:25:45.831Z</lastmod>
+      <lastmod>2025-05-21T02:39:35.784Z</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
       <loc>http://localhost/browser.html</loc>
-      <lastmod>2025-05-21T02:25:45.952Z</lastmod>
+      <lastmod>2025-05-21T02:39:35.893Z</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
       <loc>http://localhost/build-tool.html</loc>
-      <lastmod>2025-05-21T02:25:46.050Z</lastmod>
+      <lastmod>2025-05-21T02:39:35.998Z</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
       <loc>http://localhost/changelog.html</loc>
-      <lastmod>2025-05-21T02:25:46.240Z</lastmod>
+      <lastmod>2025-05-21T02:39:36.184Z</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
       <loc>http://localhost/cli.html</loc>
-      <lastmod>2025-05-21T02:25:46.592Z</lastmod>
+      <lastmod>2025-05-21T02:39:36.552Z</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
       <loc>http://localhost/configuration.html</loc>
-      <lastmod>2025-05-21T02:25:46.682Z</lastmod>
+      <lastmod>2025-05-21T02:39:36.655Z</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
       <loc>http://localhost/debug.html</loc>
-      <lastmod>2025-05-21T02:25:46.764Z</lastmod>
+      <lastmod>2025-05-21T02:39:36.814Z</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
       <loc>http://localhost/first-app.html</loc>
-      <lastmod>2025-05-21T02:25:46.887Z</lastmod>
+      <lastmod>2025-05-21T02:39:36.926Z</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
       <loc>http://localhost/getting-started.html</loc>
-      <lastmod>2025-05-21T02:25:46.955Z</lastmod>
+      <lastmod>2025-05-21T02:39:37.012Z</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
       <loc>http://localhost/hrm.html</loc>
-      <lastmod>2025-05-21T02:25:47.024Z</lastmod>
+      <lastmod>2025-05-21T02:39:37.090Z</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
       <loc>http://localhost/index.html</loc>
-      <lastmod>2025-05-21T02:25:47.099Z</lastmod>
+      <lastmod>2025-05-21T02:39:37.182Z</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
       <loc>http://localhost/installation.html</loc>
-      <lastmod>2025-05-21T02:25:47.173Z</lastmod>
+      <lastmod>2025-05-21T02:39:37.279Z</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
       <loc>http://localhost/npm.html</loc>
-      <lastmod>2025-05-21T02:25:47.236Z</lastmod>
+      <lastmod>2025-05-21T02:39:37.351Z</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
       <loc>http://localhost/workspace.html</loc>
-      <lastmod>2025-05-21T02:25:47.305Z</lastmod>
+      <lastmod>2025-05-21T02:39:37.403Z</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
       <loc>http://localhost/ws.html</loc>
-      <lastmod>2025-05-21T02:25:47.376Z</lastmod>
+      <lastmod>2025-05-21T02:39:37.456Z</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
